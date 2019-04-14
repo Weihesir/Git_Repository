@@ -1,7 +1,0 @@
-my first git directory
-first modify
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-提交试试
-提不上啊
-速算
